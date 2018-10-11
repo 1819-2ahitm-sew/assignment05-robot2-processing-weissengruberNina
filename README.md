@@ -25,15 +25,19 @@ Zwischen den beiden Modi kann mittels der Taste M gewechselt werden. Die beiden 
 
 Die Blickrichtung soll entsprechend dem aktuell eingestellten Modus und der Bewegungsrichtung dargestellt werden.
 
-<img src="./images/R-unten.png">
-<img src="./images/R-rechts.png">
-<img src="./images/R-oben.png">
-<img src="./images/R-links.png">
+<p float="left">
+	<img src="./images/R-unten.png">
+	<img src="./images/R-rechts.png">
+	<img src="./images/R-oben.png">
+	<img src="./images/R-links.png">
+</p>
 
-<img src="./images/T-unten.png">
-<img src="./images/T-rechts.png">
-<img src="./images/T-oben.png">
-<img src="./images/T-links.png">
+<p float="left">
+	<img src="./images/T-unten.png">
+	<img src="./images/T-rechts.png">
+	<img src="./images/T-oben.png">
+	<img src="./images/T-links.png">
+</p>
 
 Die neue grafische Darstellung des Roboter sieht wie folgt aus:
 
